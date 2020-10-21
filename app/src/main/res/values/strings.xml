@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">https://github.com/rohanAndrotech/ImgurImageApplication.git</string>
+    <string name="enter_comment_here">Enter comment here</string>
+    <string name="submit">Submit</string>
+    <string name="no_title_string">No Title</string>
+    <string name="image_not_found">No images found! The query is either invalid or doesn\'t contains images</string>
+</resources>
